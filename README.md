@@ -1,6 +1,8 @@
 # PrivacyDocuments
 Repository for Privacy Research done by the Safe Paths community.
 
+For more privacy and contact tracing research and whitepapers visit [Covid Safe Paths Website](http://covidsafepaths.org/) and [Split Learning Research](https://splitlearning.github.io/)
+
 #### Adding Location Context to Apple/Google Exposure Notification Bluetooth API: MIT SafePaths Encryption Proposals for GPS + Bluetooth [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/LocationContext.pdf)
  - Contact tracing requires a strong understanding of location and context of the infection encounters. Although Bluetooth technology does not provide location or context of the encounters, we present key privacy preserving ideas to capture this context that can be used in or alongside the forthcoming Google/Apple Bluetooth Exposure Notification API (GAEN).
 
