@@ -6,7 +6,7 @@ For more privacy and contact tracing research and whitepapers visit [Covid Safe 
 #### Adding Location Context to Apple/Google Exposure Notification Bluetooth API: MIT SafePaths Encryption Proposals for GPS + Bluetooth [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/LocationContext.pdf)
  - Contact tracing requires a strong understanding of location and context of the infection encounters. Although Bluetooth technology does not provide location or context of the encounters, we present key privacy preserving ideas to capture this context that can be used in or alongside the forthcoming Google/Apple Bluetooth Exposure Notification API (GAEN).
 
-#### SafePaths Privacy Preserving WiFi Co-location with Prior Scanning [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/WiFiPrivacy.pdf)
+#### SafePaths Privacy Preserving WiFi Co-location [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/WiFiPrivacy.pdf)
  - Estimate whether two devices are close to each other (and the distance between them) while maintaining privacy using WiFi protocols. We want to achieve co-location under two constraints (i) privacy (ii) no crowdsourced pre-recorded SSID/Mac addresses for signal strength or Mac address mapping to GPS locations.
 
 
