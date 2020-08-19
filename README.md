@@ -54,7 +54,7 @@ which to control this pandemic.
  
  #### Comparing manual contact tracing and digital contact advice [LINK](https://github.com/mikhaildmitrienko/PrivacyDocuments/blob/master/comparing_tracing.pdf)
  
- -Manual contact tracing is a top-down solution that starts with contact tracers at the public health
+ - Manual contact tracing is a top-down solution that starts with contact tracers at the public health
 level, who identify the contacts of infected individuals, interview them to get additional context
 about the exposure, and also monitor their symptoms and support them until the incubation period
 is past. On the other hand, digital contact tracing is a bottom-up solution that starts with citizens
@@ -70,7 +70,7 @@ and provide suggestions for potential hybrid solutions.
 
 #### PPContactTracing: A Privacy-Preserving Contact Tracing Protocol for COVID-19 Pandemic [LINK](https://github.com/mikhaildmitrienko/PrivacyDocuments/blob/master/ppcontacttracing.pdf)
 
--Several contact tracing solutions have been proposed
+- Several contact tracing solutions have been proposed
 and implemented all around the globe to combat the spread of
 COVID-19 pandemic. But, most of these solutions endanger the
 privacy rights of the individuals and hinder their widespread
