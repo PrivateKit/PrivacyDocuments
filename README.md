@@ -51,3 +51,33 @@ which to control this pandemic.
 
 #### Contact Tracing to Manage COVID19 Spread – Balancing Personal Privacy and Public Health [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/contact-tracing-public-health.pdf)
  - Given promise of digital solutions to mitigate disease spread, it is critical the science of contact tracing be explored, particularly given their cost-efficiency and scalability. It is feasible to manage privacy and public good by innovating appropriate solutions for how data is aggregated and users are informed of exposures. However, potential benefit to address waves of the current pandemic or future outbreaks can’t be under-stated.
+ 
+ #### Comparing Manual Contact Tracing and Digital Contact Advice [LINK](https://github.com/mikhaildmitrienko/PrivacyDocuments/blob/master/comparing_tracing.pdf)
+ 
+ - Manual contact tracing is a top-down solution that starts with contact tracers at the public health
+level, who identify the contacts of infected individuals, interview them to get additional context
+about the exposure, and also monitor their symptoms and support them until the incubation period
+is past. On the other hand, digital contact tracing is a bottom-up solution that starts with citizens
+who on obtaining a notification about possible exposure to an infected individual may choose to
+ignore the notification, get tested to determine if they were actually exposed or self-isolate and
+monitor their symptoms over the next two weeks. Most expertsrecommend a combination of manual
+contact tracing and digital contact advice but they are not based on a scientific basis. For example, a
+possible hybrid solution could involve a smartphone based alert that requests the possible contact of
+an infected individual to call the Public Health (PH) number for next steps, or in some cases, suggest
+ways to self-assess in order to reduce the burden on PH so only most critical cases require a phone
+conversation. In this paper, we aim to compare the manual and digital approaches to contact tracing
+and provide suggestions for potential hybrid solutions.
+
+#### PPContactTracing: A Privacy-Preserving Contact Tracing Protocol for COVID-19 Pandemic [LINK](https://github.com/mikhaildmitrienko/PrivacyDocuments/blob/master/ppcontacttracing.pdf)
+
+- Several contact tracing solutions have been proposed
+and implemented all around the globe to combat the spread of
+COVID-19 pandemic. But, most of these solutions endanger the
+privacy rights of the individuals and hinder their widespread
+adoption. We propose a privacy-preserving contact tracing protocol for the efficient tracing of the spread of the global pandemic.
+It is based on the private set intersection (PSI) protocol and
+utilizes the homomorphic properties to preserve the privacy at
+the individual level. A hierarchical model for the representation
+of landscapes and rate-limiting factor on the number of queries
+have been adopted to maintain the efficiency of the protocol.
+ 
