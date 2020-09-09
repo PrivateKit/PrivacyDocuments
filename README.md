@@ -80,4 +80,14 @@ utilizes the homomorphic properties to preserve the privacy at
 the individual level. A hierarchical model for the representation
 of landscapes and rate-limiting factor on the number of queries
 have been adopted to maintain the efficiency of the protocol.
+
+#### Proximity Sensing for Contact Tracing [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/proximity-sensing-for-contact-tracing.pdf)
+
+- The TC4TL challenge is aimed towards designing an
+effective proximity sensing algorithm that can accurately provide
+exposure notifications. In this work, we describe our approach
+to model sensor and other device level data to estimate distance
+between the two phones. We also present our research and data
+analysis on the TC4TL challenge dataset and discuss various
+limitations associated with the task as well as dataset.
  
