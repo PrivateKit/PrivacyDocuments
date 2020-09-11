@@ -1,5 +1,5 @@
 # PrivacyDocuments
-Repository for Privacy Research done by the Safe Paths community.
+Repository for Privacy Research done by the Safe Paths community. The repository is maintained by [Abhishek](https://github.com/tremblerz) and [Mikhail](https://github.com/mikhaildmitrienko). Please make a pull request or reach out to them if you want to get a paper added.
 
 For more privacy and contact tracing research and whitepapers visit [Covid Safe Paths Website](http://covidsafepaths.org/) and [Split Learning Research](https://splitlearning.github.io/)
 
