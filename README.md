@@ -81,15 +81,9 @@ the individual level. A hierarchical model for the representation
 of landscapes and rate-limiting factor on the number of queries
 have been adopted to maintain the efficiency of the protocol.
 
-#### Proximity Sensing for Contact Tracing [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/proximity-sensing-for-contact-tracing.pdf)
+#### Proximity Sensing: Modeling and Understanding Noisy RSSI-BLE Signals and Other Mobile Sensor Data for Digital Contact Tracing [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/ProximitySensingForContactTracing.pdf)
 
-- The TC4TL challenge is aimed towards designing an
-effective proximity sensing algorithm that can accurately provide
-exposure notifications. In this work, we describe our approach
-to model sensor and other device level data to estimate distance
-between the two phones. We also present our research and data
-analysis on the TC4TL challenge dataset and discuss various
-limitations associated with the task as well as dataset.
+- As we await a vaccine, social-distancing via efficient contact tracing has emerged as the primary health strategy to dampen the spread of COVID-19. To enable efficient digital contact tracing, we present a novel system to estimate pair-wise individual proximity, via a joint model of Bluetooth Low Energy (BLE) signals with other on-device sensors (accelerometer, magnetometer, gyroscope). We explore multiple ways of interpreting the sensor data stream (time-series, histogram, etc) and use several statistical and deep learning methods to learn representations for sensing proximity. We report the normalized Decision Cost Function (nDCF) metric and analyze the differential impact of the various input signals, as well as discuss various challenges associated with this task.
  
  
 #### DAMS: Meta-Estimation of Private Sketch Data Structures for Differentially Private COVID-19 Contact Tracing [LINK](https://github.com/vepakom/PrivacyDocuments/blob/master/DAMS_Meta-estimation_of_private_sketch_data_structures_for_differentially_private_contact_tracing.pdf)
