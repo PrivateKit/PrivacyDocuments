@@ -41,6 +41,25 @@ a thousand people to back-trace and see who could be at risk to avoid further sp
 #### Private GPS Intersection [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/GpsEncryption.pdf)
  - Exposure notification in GPS based contact tracing platform requires performing intersection of at least two GPS trails, however, these GPS trails are sensitive information about a user and hence requires performing intersection in a private manner. Low entropy in the GPS trails makes this problem even more challenging as brute force becomes feasible. In this paper, we propose methods and system design for performing private GPS trail intersection using secure cryptographic methods. We also highlight potential attacks which can be performed on the proposed techniques.
  
+ #### Target Privacy Threat Modeling for COVID-19 Exposure Notification Systems [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/threat_model.pdf)
+ - The adoption of digital contact tracing (DCT) technology during the COVID-19
+pandemic has shown multiple benefits, including helping to slow the spread of
+an infectious disease and to improve the dissemination of accurate information.
+However, to support both ethical technology deployment and user adoption, privacy
+must be at the forefront. With the loss of privacy being a critical threat, thorough
+threat modeling will help us to strategize and protect privacy as digital contact
+tracing technologies advance.
+Various threat modeling frameworks exist today, such as LINDDUN, STRIDE,
+PASTA, and NIST, which focus on software system privacy, system security, application security, and data-centric risk, respectively. When applied to the exposure
+notification system (ENS) context, these models provide a thorough view of the
+software side but fall short in addressing the integrated nature of hardware, humans,
+regulations, and software involved in such systems. Our approach addresses ENSs
+as a whole and provides a model that addresses the privacy complexities of a multifaceted solution. We define privacy principles, privacy threats, attacker capabilities,
+and a comprehensive threat model. Finally, we outline threat mitigation strategies
+that address the various threats defined in our model.
+ 
+ 
+ 
 #### COVID-19 Contact-Tracing Mobile Apps: Evaluation And Assessment For Decision Makers [LINK](https://github.com/PrivateKit/PrivacyDocuments/blob/master/apps-evaluation.pdf)
  - More than 150,000 deaths are now attributed to the global COVID-19 pandemic. Many thousands more lives are expected to be lost before we have brought the disease under control and are capable of managing future spikes in the number of cases. In an effort to both slow and stop the disease, communities across the world have halted everyday life, requesting or requiring their residents to close non-essential businesses, stop going to school, and stay home. Digital initiatives hope to support safe and wellconsidered approaches to the reopening of our societies while simultaneously reducing the human loss of life by giving frontline officials modern tools with
 which to control this pandemic.
